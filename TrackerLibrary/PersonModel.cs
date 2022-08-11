@@ -12,7 +12,7 @@ namespace TrackerLibrary
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string EmailAddress { get; set; }
-        public String CellphoneNumber { get; set; }
+        public string CellphoneNumber { get; set; }
 
     }
 }
